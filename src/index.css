@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif !important;
+  
+}
+
+
+a {
+  text-decoration: none !important;  
+}
+
+.haver:hover {
+  color: gold !important;
+  border: 1px solid gold;
+  border-radius: 10px;
+}
+
+
+
+
+
+.body {
+  background-size: 100%;
+  width: 100%;
+  height: 50vw;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+
+}
+
+
+
+.btn_not {
+  width: 60px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: rgb(0, 0, 0);
+  font-weight: bold;
+  color: white;
+  margin-left: 10px;
+  margin-top: 4px;
+  
+}
+
+.btn_not:hover {
+  background-color: gold;
+  color: black;
+}
+
+

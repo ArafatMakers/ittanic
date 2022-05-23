@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "name": "Stellaris Overlord",
+      "price": 500,
+      "picture": "https://static.gabestore.ru/product/vnWKrGGwUjKv_Q_itW0UUwnBEG6Q4Fpn.jpg",
+      "type": "strategy",
+      "id": 1
+    },
+    {
+      "name": "Oacen",
+      "price": 970,
+      "picture": "https://static.gabestore.ru/product/RAgS8gdg5clIYV2vqLUb1os03vPgAopG.jpg",
+      "type": "strategy",
+      "id": 3
+    },
+    {
+      "name": "SURVIVING MARS",
+      "price": 499,
+      "picture": "https://static.gabestore.ru/product/p-I8pPxthLL4KEi759mKU38K8iEiSLmq.jpg",
+      "type": "open world",
+      "id": 4
+    },
+    {
+      "name": "SURVIVING MARS",
+      "price": 799,
+      "picture": "https://static.gabestore.ru/product/2X7Sz161WakN82PP9HuvBsuKaSMaq2kF.jpg",
+      "type": "strategy",
+      "id": 5
+    },
+    {
+      "name": "SURVIVING MARS",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/m5j27xLvCxZl0ptlTRz0GVwsXJTh2DTF.jpg",
+      "type": "shooter",
+      "id": 6
+    },
+    {
+      "name": "DECK OF ASHES",
+      "price": 399,
+      "picture": "https://static.gabestore.ru/product/UzG9pE6dNUp5zX9L8M1jLZusj4PwZA_d.jpg",
+      "type": "open world",
+      "id": 7
+    },
+    {
+      "name": "Terraformes",
+      "price": 299,
+      "picture": "https://static.gabestore.ru/product/nA29CCCg4_UYWiJJXryUqpZuRvuudlK4.jpg",
+      "type": "strategy",
+      "id": 8
+    },
+    {
+      "name": "Sky Ark",
+      "price": 199,
+      "picture": "https://static.gabestore.ru/product/OassNpENMQX7RKMJGkCO_UQ-V7qTG9bP.jpg",
+      "type": "strategy",
+      "id": 9
+    },
+    {
+      "name": "Batllesector ",
+      "price": 199,
+      "picture": "https://static.gabestore.ru/product/gkZsphOAZV7PdW3VvbyIQcjoaj54X8wl.jpg",
+      "type": "strategy",
+      "id": 10
+    },
+    {
+      "name": "Orks Must",
+      "price": 99,
+      "picture": "https://static.gabestore.ru/product/2Rbxeuquuu3831gMcf6PGPys3ou-gwYp.jpg",
+      "type": "open world",
+      "id": 11
+    },
+    {
+      "name": "Zombillie",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/sR4V8h6HN7KDYqyKBieOiMUIb9BaVSCg.jpg",
+      "type": "shooter",
+      "id": 12
+    },
+    {
+      "name": "SkyHill",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/RnMUinn44Ux2MJONhpHVl9duQq1u3MnK.jpg",
+      "type": "strategy",
+      "id": 13
+    },
+    {
+      "name": "The Evil Within",
+      "price": 799,
+      "picture": "https://static.gabestore.ru/product/uo9UF75TEorggaRkd68Mut_Dv1CsTL7C.jpg",
+      "type": "open world",
+      "id": 14
+    },
+    {
+      "name": "Killing Floor",
+      "price": 799,
+      "picture": "https://static.gabestore.ru/product/aJHJ58qoU4mJTRoWmjS34BlN4a-iFgyx.jpg",
+      "type": "strategy",
+      "id": 15
+    },
+    {
+      "name": "Remaster",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/BCXtM1MqQIy2IFjW73o8juxE-vALWFha.jpg",
+      "type": "shooter",
+      "id": 16
+    },
+    {
+      "name": "Resident",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/P0BlrOpT_H0Vlp4auYO2gl8fb9j4_0TV.jpg",
+      "type": "open world",
+      "id": 17
+    },
+    {
+      "name": "Prototype 2",
+      "price": 299,
+      "picture": "https://static.gabestore.ru/product/VlvHqwRZ7rWWv78ZmzYBttiKi01eA55a.jpg",
+      "type": "strategy",
+      "id": 18
+    },
+    {
+      "name": "Dead Rising 3",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/gQpPUEukyFcuPOt8dY0mA0AyAE0jxPz1.jpg",
+      "type": "strategy",
+      "id": 19
+    },
+    {
+      "name": "NecroVision",
+      "price": 199,
+      "picture": "https://static.gabestore.ru/product/mnAP_0b64I2Zbn5jhLSdlTxeSfHmKxdW.jpg",
+      "type": "strategy",
+      "id": 20
+    },
+    {
+      "name": "Dead Effect",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/PxmyN8E9HR0IKoM_JfKn8hQkoZtVPjJf.jpg",
+      "type": "open world",
+      "id": 21
+    },
+    {
+      "name": "SuperHot",
+      "price": "999",
+      "picture": "https://static.gabestore.ru/product/JMbtc7oa1IKYJBCFXoXE_w58q0ffj7in.jpg",
+      "type": "shooter",
+      "id": 22
+    },
+    {
+      "name": "Binary Domain",
+      "price": 970,
+      "picture": "https://static.gabestore.ru/product/4l9yqz1HZsuYDTWQFRGON8qSIhEklBuz.jpg",
+      "type": "strategy",
+      "id": 23
+    },
+    {
+      "name": "Flash Back",
+      "price": 725,
+      "picture": "https://static.gabestore.ru/product/4Z9qSh1UaWc2fPN_ggFAKtBLR-0G872W.jpg",
+      "type": "open world",
+      "id": 24
+    },
+    {
+      "name": "Killer is Dead",
+      "price": 799,
+      "picture": "https://static.gabestore.ru/product/40oacVAKokeApA8T9rkTiNp1PrBZeBO7.jpg",
+      "type": "strategy",
+      "id": 25
+    },
+    {
+      "name": "How to Survive",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/Xg98H7bhePUman97rLUF6DTDuuKka7Pg.jpg",
+      "type": "shooter",
+      "id": 26
+    },
+    {
+      "name": "Star Wars",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/Ag-gkZJd0IrEo9y75evSMxK1DjCPi1qL.jpg",
+      "type": "open world",
+      "id": 27
+    },
+    {
+      "name": "Devil Cry",
+      "price": 250,
+      "picture": "https://static.gabestore.ru/product/fRDLR_PPEPFBCmbELz2LH8XYlxZlT5UK.jpg",
+      "type": "shooter",
+      "id": 28
+    },
+    {
+      "name": "Sonic Mania",
+      "price": 999,
+      "picture": "https://static.gabestore.ru/product/n6cB6LUYELEJA4UpU7lB4OGTNJajRq8Z.jpg",
+      "type": "shooter",
+      "id": 29
+    },
+    {
+      "name": "Brothers",
+      "price": 199,
+      "picture": "https://static.gabestore.ru/product/ZsQWNUy1yes_cl1WWokYd-DbD72SObYK.jpg",
+      "type": "shooter",
+      "id": 30
+    },
+    {
+      "name": "Tetragon",
+      "price": 99,
+      "picture": "https://static.gabestore.ru/product/8I5K_3sO0e-dIG1jrEoRphXfUHSL1MZe.jpg",
+      "type": "open world",
+      "id": 31
+    }
+  ]
+}

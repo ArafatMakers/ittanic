@@ -1,0 +1,29 @@
+.gameblock{
+  display: flex;
+  max-width:'800px';
+  margin-top: 10px;
+  margin-bottom: 20px
+}
+.gameText{
+  text-align: center;
+  margin-top: 20px;
+}
+.game{
+  width: 300px;
+  margin: 15px
+}
+
+
+.game img {
+  width: 300px;
+  height: 300px;
+}
+.gameimg{
+
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%
+}
+
+.game p {
+margin-bottom: 10px;
+}

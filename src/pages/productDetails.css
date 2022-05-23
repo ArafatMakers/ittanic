@@ -1,0 +1,56 @@
+#product-details{
+  display: flex;
+  margin-bottom: 10vh;
+  margin-top: 10vh;
+}
+
+.right{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+}
+
+.wine-details{
+  display: flex;
+  margin-top: 15vh;
+  background-color: #F3f3f3;
+}
+
+.wine-details-left{
+  margin-right: 20vh;
+}
+
+.wine-details-left, .wine-details-right{
+  display: flex;
+}
+
+.wine-details-left-right{
+  font-weight: 600;
+  margin-left: 10vh;
+}
+
+.recomendations{
+  display: flex;
+  margin-bottom: 10vh;
+  margin-left: 5vw;
+}
+.cart-button{
+  width: 12vw;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+.cart-button:hover{
+  color: black;
+  background-color: transparent;
+}
+
+.product-details-image{
+  width: 15vw;
+}

@@ -1,0 +1,21 @@
+.navbar-icon {
+  margin-right: 10px !important;
+}
+
+
+.navbar-item:hover{
+  color: gold;
+}
+
+
+
+.logo {
+  color: black !important;
+}
+
+.textfield__label {
+  color: gold !important;
+  border: gold;
+  
+
+}
